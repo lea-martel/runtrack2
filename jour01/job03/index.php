@@ -10,16 +10,9 @@
 
 <?php 
 $var ="Hello LaPlateforme";
-
 $var1 =true;
-
-
 $var2 =10;
-
-
 $var3 =5.6;
-
-
 ?>
 
 <table>

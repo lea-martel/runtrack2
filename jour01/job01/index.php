@@ -28,7 +28,5 @@
      echo $mybool;
 
      ?>
-
-
 </body>
 </html>
