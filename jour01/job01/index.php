@@ -13,20 +13,17 @@
     echo $str2;
     $str3="!";
     echo $str3;
-    ?>
+?>
 
-    <?php
+<?php
 
      $val =6;
      $val += 4;
-     echo $val;
-     
+    
      $mybool ="true";
-     echo $mybool;
-
      $mybool ="false";
-     echo $mybool;
+     
 
-     ?>
+?>
 </body>
 </html>
