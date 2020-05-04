@@ -3,11 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP-JOB00</title>
+    <title>PHP-JOB02</title>
 </head>
 <body>
-    <?php 
-    echo "<h1>Hello LaPlateforme !<h1>";
+    <?php
+    $var ="Hello laPlateforme !<br>";
+    echo $var;
+    
+    $hel ="Hello laPlateforme !";
+    echo $hel;
     ?>
 </body>
 </html>
