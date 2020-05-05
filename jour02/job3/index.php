@@ -21,3 +21,4 @@ while ($nombre <= $nombre1) {
 
 $nombre++; 
 }
+?>
