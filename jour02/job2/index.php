@@ -14,7 +14,7 @@
     while ($nombre1 >= $nombre) {
         
         echo "<div>";
-        if ($nombre == 42) 
+    if ($nombre == 42) 
     {
         echo $nombre;
         echo "<br />";
@@ -29,8 +29,8 @@
     else {
         echo $nombre;
     }
-    echo "</div>";
-    $nombre++;
+        echo "</div>";
+        $nombre++;
 }
 ?>
 </body>
