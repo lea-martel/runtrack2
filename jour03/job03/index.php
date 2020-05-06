@@ -1,7 +1,5 @@
 <?php
-
 $str = "I'm sorry Dave I'm afraid I can't do that.";
-
 $str_array = str_split ($str);
 
     foreach ( $str_array as $voyelles) {
