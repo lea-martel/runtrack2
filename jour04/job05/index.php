@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>PHP-JOB05</title>
 </head>
-
 <body>
     <form action="index.php" method="post">
 
@@ -19,7 +17,6 @@
         <button type="submit"> Entrer </button>
     </form>
 </body>
-
 </html>
 
 <?php
@@ -31,8 +28,10 @@ if (!empty($_POST)) {
     if ($_POST["password"] == $motdepasse && $_POST["name"] == $identifiant) {
 
         echo "C'est pas ma guerre";
-    } else {
+} 
+else 
+{
         echo "Votre pire cauchemar";
-    }
+}
 }
 ?>

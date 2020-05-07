@@ -5,9 +5,8 @@ $nombre1 = 100;
 while ($nombre <= $nombre1) {
 
     if ($nombre <= 20) {
-    
-
         echo "<i> $nombre</i>"."<br />";
+    
     } elseif ($nombre ==42) { 
         echo "LaPlateforme_<br />";
 
@@ -21,4 +20,3 @@ while ($nombre <= $nombre1) {
 
 $nombre++; 
 }
-?>
