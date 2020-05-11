@@ -1,9 +1,12 @@
 <?php
 
+$str="Les villageois se reveillent";
+$char= "e";
+
 function occurrences ($str, $char) {
 
-    return ($str = $char);
-}
-    echo occurrences ("Bonjour", "Bonsoir");
+return substr_count ($str,$char); }
+
+echo occurrences ($str,$char);
 
 ?>
