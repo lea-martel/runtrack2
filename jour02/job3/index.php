@@ -12,7 +12,6 @@ while ($nombre <= $nombre1) {
 
      }elseif ($nombre >= 25 && $nombre <= 50) {
     
-
         echo "<u> $nombre</u>"."<br />";
     } else {
         echo "$nombre <br />";
@@ -20,3 +19,5 @@ while ($nombre <= $nombre1) {
 
 $nombre++; 
 }
+
+?>
