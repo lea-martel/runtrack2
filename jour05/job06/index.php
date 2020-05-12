@@ -1,5 +1,8 @@
 <?php
 
-function leetspeak($str)
+function leetspeak($str) {
+
+    
+}
 
 ?>

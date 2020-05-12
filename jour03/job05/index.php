@@ -1,7 +1,8 @@
 <?php
+
 $str = "On n est pas le meilleur quand on le croit mais quand on le sait.";
 $str = str_split($str);
-$dic = ["consonnes" => [], "voyelles" =>[]];
+$dic = ["consonnes" => [], "voyelles" => []]; 
 
 foreach ($str as $dic => $valeur){
 
