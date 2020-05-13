@@ -8,7 +8,7 @@ foreach ($str as $dic => $valeur){
 
 if ($voyelles=="a" || $voyelles=="e" || $voyelles=="i" || $voyelles== "o" || $voyelles== "u" || $voyelles=="y") 
 {
-
+    echo $voyelles;
 
 }
 }
