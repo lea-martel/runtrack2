@@ -1,1 +1,1 @@
-SELECT prenom FROM etudiants WHERE prenom like 't%'
+SELECT * FROM etudiants WHERE prenom like 't%'
